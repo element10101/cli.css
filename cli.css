@@ -4,6 +4,10 @@
   font-family: monospace;
 }
 
+body {
+  background-color: black;
+}
+
 #prompt {
   color: #0000b3;
 }
